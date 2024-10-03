@@ -10,7 +10,7 @@ RAG_LangChain/
 │   │   ├── __init__.py
 │   │   └── llm_model.py
 |   |   └── utils.py
-│   └── module2/
+│   └── rag/
 │       ├── __init__.py
 │       └── file_loader.py
 │       └── helper.py
